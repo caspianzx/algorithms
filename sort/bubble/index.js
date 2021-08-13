@@ -1,4 +1,4 @@
-
+// time complexity is O(n^2)
 // idea is similar to selection sort to place the smallest number in the front in ascending order...
 function swap(arr,j, i) {
     let temp = arr[j];
